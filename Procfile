@@ -1,1 +1,1 @@
-worker: python telegram-light-control-bot.py
+worker: python light-control-bot.py
